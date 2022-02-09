@@ -35,3 +35,9 @@ footer {
 .carousel-item {
   height: 20rem;
 }
+
+.truncate {
+  height: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

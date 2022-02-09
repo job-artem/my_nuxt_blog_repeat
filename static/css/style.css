@@ -41,3 +41,9 @@ footer {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+.truncate_h1 {
+  height: 70px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
